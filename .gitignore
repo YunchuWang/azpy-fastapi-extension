@@ -1,0 +1,4 @@
+build/*
+dist
+azfuncfastapi.egg-info
+.venv

@@ -1,1 +1,1 @@
-# azpy-fastapi-extension
+# azpy-base-extension
